@@ -22,8 +22,8 @@ Ce projet est une application en ligne de commande permettant de gérer un inven
 ## Installation et Exécution
 1) Cloner le dépôt :
    ```sh
-   git clone https://github.com/votre-utilisateur/gestion-inventaire.git
-   cd gestion-inventaire
+   git clone https://github.com/ryonnie/Gestion-d-Inventaire.git
+   cd Gestion-d-Inventaire
 3) Exécuter le script :
    ```sh
    python3 gestion_inventaire.py
